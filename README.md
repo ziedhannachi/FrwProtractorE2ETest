@@ -1,6 +1,6 @@
 # Test E2E avec Protractor, cucumber en utilisant TypeScript!
 
-# Table des matières 
+## Table des matières 
 Introduction	
 Framework	
    Protractor	
