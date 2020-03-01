@@ -1,11 +1,11 @@
 # Test E2E avec Protractor, cucumber en utilisant TypeScript!
 
-# Veuillez consulter notre article qui vous donnerait plus d'informations sur cet projet [link]
+Veuillez consulter notre article qui vous donnerait plus d'informations sur cet projet [link](https://www.linkedin.com/in/zied-hannachi-109247122/?originalSubdomain=fr)
 
 ## Table des matières 
 ### Introduction	
 - Framework	
-1.  Protractor	
+ 1.  Protractor	
 2.  Pourquoi le test E2E	
 3. Pourquoi utiliser Protractor	
 4. Cucumber	
