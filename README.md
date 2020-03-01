@@ -1,6 +1,6 @@
 # Test E2E avec Protractor, cucumber en utilisant TypeScript!
 
-Veuillez consulter notre article qui vous donnerait plus d'informations sur cet projet [link](https://www.linkedin.com/in/zied-hannachi-109247122/?originalSubdomain=fr)
+Veuillez consulter notre article qui vous donnerait plus d'informations sur cet projet [Article](https://www.linkedin.com/in/zied-hannachi-109247122/?originalSubdomain=fr)
 
 ## Table des matières 
 ### Introduction	
