@@ -1,7 +1,6 @@
-<img width="231" alt="y" src="https://user-images.githubusercontent.com/28559744/75617405-fe510f00-5b5e-11ea-8920-f88b41a378ac.PNG">
-
-# Test E2E avec Protractor, cucumber en utilisant TypeScript!
-
+<p align="center">
+<img width="350" alt="y" src="https://user-images.githubusercontent.com/28559744/75617405-fe510f00-5b5e-11ea-8920-f88b41a378ac.PNG">
+</p>
 Veuillez consulter notre article qui vous donnerait plus d'informations sur cet projet [Test E2E avec Protractor, cucumber en utilisant TypeScript!](https://www.linkedin.com/in/zied-hannachi-109247122/?originalSubdomain=fr)
 
 ## Table des matières 
